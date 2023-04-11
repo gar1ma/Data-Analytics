@@ -1,2 +1,4 @@
-# DA-Experiments
-Open electives (Sem VI) Data Analytics
+# DATA ANALYTICS
+Experiements performed as part of the Open Electives course
+Language used: Python
+Platform: Google Colab
