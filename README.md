@@ -1,4 +1,2 @@
-# DATA ANALYTICS
-Experiements performed as part of the Open Electives course;
-Language used: Python;
-Platform: Google Colab
+# DA using Python
+Experiements performed as part of the Open Electives course
